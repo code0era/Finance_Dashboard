@@ -5,3 +5,5 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2026-04-01
 ### Added
 - Initial Vite React setup
+
+- Complete UI implementation with Dark Mode and Admin Mock
