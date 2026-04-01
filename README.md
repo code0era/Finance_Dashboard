@@ -2,7 +2,9 @@
 
 A beautifully minimal, fast, and feature-complete Finance Dashboard built using React, Vite, and native CSS. 
 
-![Finance Dashboard](https://via.placeholder.com/1200x600.png?text=Finance+Dashboard+UI)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8f868f09-5c95-4372-8bca-bf73a3fd504d" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5d19bc0c-c739-4f28-9b7f-d9121a5835cb" />
+
 
 ## 📌 Project Overview
 This project is an assignment designed to evaluate frontend structural approach, aesthetic intuition, and state management. The key constraints of **keeping the codebase minimalistic** and **highly comprehensible** have driven every architectural decision.
